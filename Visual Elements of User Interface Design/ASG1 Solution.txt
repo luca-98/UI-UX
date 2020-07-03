@@ -1,0 +1,11 @@
+1) The name of your digital product.
+Master Seller
+2) A short description of your project idea. The description should answer the following questions:
+What is it?
+It's a web application have a lot of feature to support seller can easier sell your product.
+Who is it for?
+Seller
+3) A tagline for your project, using suitable language aligned with the intended audience.
+Your Gateway to a Richer Life
+4) A description of the main activity or function of the app.
+This application will support seller can upload, report,... your products on many e-commerces. And many other features.
