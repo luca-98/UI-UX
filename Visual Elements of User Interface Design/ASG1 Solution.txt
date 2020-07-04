@@ -8,4 +8,4 @@ Seller
 3) A tagline for your project, using suitable language aligned with the intended audience.
 Your Gateway to a Richer Life
 4) A description of the main activity or function of the app.
-This application will support seller can upload, report,... your products on many e-commerces. And many other features.
+This application will support seller can upload, report,... their products on many e-commences. And many other features.
